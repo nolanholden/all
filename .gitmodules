@@ -1,3 +1,6 @@
 [submodule "3rdparty/pistache"]
 	path = 3rdparty/pistache
 	url = https://github.com/nolanholden/pistache
+[submodule "3rdparty/googletest"]
+	path = 3rdparty/googletest
+	url = https://github.com/google/googletest
