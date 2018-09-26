@@ -1,0 +1,3 @@
+[submodule "3rdparty/pistache"]
+	path = 3rdparty/pistache
+	url = https://github.com/nolanholden/pistache
